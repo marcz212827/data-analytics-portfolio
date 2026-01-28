@@ -18,10 +18,15 @@ Datos incompletos y sin estandarización.
 - Consultas SQL para métricas clave
 
 ## Insights Clave
-- Un grupo reducido de clientes concentra gran parte de la deuda vencida
-- Existen clientes con atrasos recurrentes
+- Aproximadamente el 20% de los clientes concentra la mayor parte de la deuda vencida.
+- Se identifican clientes con patrones de atraso recurrentes, lo que incrementa el riesgo financiero.
 
 ## Recomendaciones
 - Implementar un score de riesgo crediticio
 - Crear alertas automáticas
 - Ajustar políticas de otorgamiento de crédito
+
+## Impacto Esperado
+- Reducción del riesgo de morosidad mediante alertas tempranas.
+- Mejora en el control del crédito otorgado.
+- Apoyo a decisiones comerciales basadas en datos.
